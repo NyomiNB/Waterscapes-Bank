@@ -1,8 +1,5 @@
 Waterscapes Bank
 
-Your friendly neighborhood bank.
-
-In progress...
 - Features:
     -  Create a new bank account!
 - Skills:
